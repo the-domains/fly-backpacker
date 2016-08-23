@@ -11,4 +11,8 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-name: FLY Backpacker
+name: FLY Backpackers
+navigation:
+  - name: 'test '
+    url: 'http://www.flybackpackers.com/test'
+    type: external
